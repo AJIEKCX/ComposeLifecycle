@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeLifecycle</string>
+    <string name="counter_title">You have pushed the button this many times:</string>
+</resources>
